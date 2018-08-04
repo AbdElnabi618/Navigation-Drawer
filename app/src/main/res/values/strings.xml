@@ -2,8 +2,19 @@
     <string name="app_name">Navigation Drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+
+    <string name="user_name">User Name</string>
+    <string name="logout">Log out</string>
+
+    <!--Dashboard element's text-->
+    <string name="dashboard_text">DASHBOARD</string>
+    <string name="my_school">My Schools</string>
+    <string name="add_school">Add a school</string>
+    <string name="how_use">How to use Application</string>
+
+    <!-- Images content description -->
+    <string name="back_in_header">close Navigation Drawer</string>
+    <string name="logout_icon">logout</string>
 </resources>
